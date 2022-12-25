@@ -1,1 +1,13 @@
+body{
+    font-family: sans-serif;
+    text-transform: capitalize;
+}
 
+.container{
+    width: 1170px;
+    margin: 0 auto;
+}
+
+a{
+    text-decoration: none;
+}

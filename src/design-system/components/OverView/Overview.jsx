@@ -2,7 +2,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import React from 'react';
 import { Disc, Overviewapper, Title } from './Styled';
 
-function Overview({icon,title,disc}) {
+function OverviewComponent({icon,title,disc}) {
   return (
     <Overviewapper>
        <div> <FontAwesomeIcon size='2x' color='#f2545f' icon={icon} /> </div>
@@ -12,4 +12,4 @@ function Overview({icon,title,disc}) {
   )
 }
 
-export default Overview;
+export default OverviewComponent;
