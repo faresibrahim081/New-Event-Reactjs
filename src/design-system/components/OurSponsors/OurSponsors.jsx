@@ -1,10 +1,11 @@
 
 import React from 'react'
+import { Img } from './Style'
 
 function OurSponsors({src, alt}) {
   return (
     <div>
-      <img width="100%" src={src} alt={alt} />
+      <Img src={src} alt={alt} />
     </div>
   )
 }

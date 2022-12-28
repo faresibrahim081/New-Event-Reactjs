@@ -14,10 +14,10 @@ function OurProgramers({img ,time ,roomNum ,job ,alt , name, desc}) {
       <div>
         <IconWrapper>
           <div>
-            <FontAwesomeIcon style={{paddingRight : "0.4rem"}} size="ms" icon={faClock} /> {time}
+            <FontAwesomeIcon style={{paddingRight : "0.4rem"}} size="sm" icon={faClock} /> {time}
           </div>
           <div>
-            <FontAwesomeIcon style={{paddingRight : "0.4rem"}} size="ms" icon={faMapMarker} /> {roomNum}
+            <FontAwesomeIcon style={{paddingRight : "0.4rem"}} size="sm" icon={faMapMarker} /> {roomNum}
           </div>
         </IconWrapper>
         <Title>{job}</Title>

@@ -4,7 +4,7 @@ import sponsor3 from 'images/OurSponsors/sponsor-img3.jpg'
 import sponsor4 from 'images/OurSponsors/sponsor-img4.jpg'
 
 
- const ourSponsors = [
+ const ourSponsorsData = [
     {
         id: 1,
         src: sponsor1,
@@ -26,4 +26,4 @@ import sponsor4 from 'images/OurSponsors/sponsor-img4.jpg'
         alt: "sponsor4",
     },
 ]
-export default ourSponsors
+export default ourSponsorsData
