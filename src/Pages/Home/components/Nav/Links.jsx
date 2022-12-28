@@ -7,31 +7,31 @@ export default function links() {
         navText: 'intro'
     },
     {
-        navLink: '/overView',
+        navLink: '/',
         navText: 'over view'
     },
     {
-        navLink: '/speakers',
+        navLink: '/',
         navText: 'speakers'
     },
     {
-        navLink: '/Programers',
+        navLink: '/',
         navText: 'Programers'
     },
     {
-        navLink: '/register',
+        navLink: '/',
         navText: 'register'
     },
     {
-        navLink: '/revenue',
+        navLink: '/',
         navText: 'revenue'
     },
     {
-        navLink: '/sponsors',
+        navLink: '/',
         navText: 'sponsors'
     },
     {
-        navLink: '/contact',
+        navLink: '/',
         navText: 'contact'
     },
 ])
